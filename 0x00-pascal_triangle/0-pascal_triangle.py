@@ -1,10 +1,10 @@
+#!/usr/bin/python3
 """
 Module Docs
 """
 
-from typing import List
 
-def pascal_triangle(n: int) -> List[List[int]]:
+def pascal_triangle(n):
     """
     Generate Pascal's triangle up to n rows.
 
@@ -13,7 +13,6 @@ def pascal_triangle(n: int) -> List[List[int]]:
     :return: A list of lists representing Pascal's triangle.
     :rtype: List[List[int]]
     """
-    
     if n <= 0:
         return []
 
