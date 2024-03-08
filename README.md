@@ -19,7 +19,7 @@ This repository contains materials and resources to help candidates prepare for 
 To get started with your interview preparation, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/alx-interview.git
+git clone https://github.com/olusiwkwin/alx-interview.git
 ```
 
 Once cloned, you can explore the materials provided and follow the instructions in each section to enhance your interview readiness.
